@@ -1,5 +1,5 @@
 # Aplikasi Charity
-> Secara singkatnya aplikasi ini mengumpulkan beberapa fundraiser kemudian menyediakan halaman donasi untuk melakukan donasi
+> Penjelasan secara singkat mengenai aplikasi ini, yaitu merupakan aplikasi yang mengumpulkan beberapa fundraiser untuk kemudian melakukan donasi kepada lembaga fundraiser tersebut
 
 **Fitur-Fitur yang ada dalam aplikasi:**
 - Hashing password
